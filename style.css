@@ -137,7 +137,7 @@ span,
 
 .hero{
     height: 115vh;
-    background-image: url("images/Coming\ Soon\ Website\ \(3\).png");
+    background-image: url("/Coming\ Soon\ Website\ \(3\).png");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
